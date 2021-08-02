@@ -10,5 +10,7 @@
 <body>
     <h1>First Web Page</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, quisquam? Ratione non animi reprehenderit autem accusantium inventore impedit, aliquam molestiae earum! Animi aliquam nihil hic nulla inventore, at quae debitis.</p>
+    <?php
+        echo "<pre>Este es un texo que escribí para rellenar mi archivo php.</pre>"
+    ?>
 </body>
-</html>
